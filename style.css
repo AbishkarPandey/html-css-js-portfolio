@@ -46,7 +46,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -329,7 +329,7 @@ section {
 
 .experience-details-container {
   display: flex;
-  justify-content: center;
+  justify-content: justify;
   flex-direction: column;
 }
 
@@ -339,13 +339,13 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 article {
   display: flex;
-  width: 10rem;
-  justify-content: space-around;
+  width: 19rem;
+  justify-content: center;
   gap: 0.5rem;
 }
 
