@@ -5,7 +5,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #355245;
+  background-color: #eae7dc;
 }
 
 body {
@@ -17,7 +17,7 @@ html {
 }
 
 p {
-  color: #e3e5d8;
+  color: #616161;
 }
 
 /* TRANSITION */
@@ -47,7 +47,7 @@ nav {
 }
 
 a {
-  color: #afc1b6;
+  color: #000000;
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -61,7 +61,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
-  color: #afc1b6;
+  color: #000000;
 }
 
 .logo:hover {
@@ -295,7 +295,7 @@ section {
 .details-container {
   padding: 2.3rem;
   flex: 1;
-  background: #355245;
+  background: #eae7dc;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -314,7 +314,7 @@ section {
 }
 
 .experience-sub-title {
-  color: #ffffff;
+  color: #000000;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -354,7 +354,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: #355245;
+  background: #eae7dc;
 }
 
 .project-img {
@@ -389,7 +389,7 @@ article .icon {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background: #355245;
+  background: #eae7dc;
   margin: 2rem auto;
   padding: 0.5rem;
 }
